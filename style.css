@@ -1,0 +1,102 @@
+.sort{
+    background-color: rgb(225, 223, 223);   
+    border:4px; 
+    border-radius:6px;
+    font-weight: 600;
+    width: 130px;
+    height: 40px;
+}
+
+.blogB{
+    background-color: red;
+    color: white;
+    border: 0px;
+    border-radius: 6px;
+    font-weight: 600;
+    width: 70px;
+    height: 40px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 20px;
+  }
+
+  .button:hover {
+    background-color: #ccc;
+  }
+
+  .allB{
+    background-color: rgb(225, 223, 223);   
+    border:4px; 
+    border-radius:6px;
+    font-weight: 600;
+    width: 80px;
+    height: 40px;
+
+  }
+
+.musicB{
+    background-color: rgb(225, 223, 223);   
+    border:4px; 
+    border-radius:6px;
+    font-weight: 600;
+    width: 130px;
+    height: 40px;
+}
+
+.comedyB{
+    background-color: rgb(225, 223, 223);   
+    border:4px; 
+    border-radius:6px;
+    font-weight: 600;
+    width: 130px;
+    height: 40px;
+}
+
+.drawingB{
+    background-color: rgb(225, 223, 223);   
+    border:4px; 
+    border-radius:6px;
+    font-weight: 600;
+    width: 130px;
+    height: 40px;
+}
+
+.box{
+width: 300px;
+height: 330px;
+border: 1px solid gray;
+padding: 10px;
+text-align: center;
+margin: 5px;
+}
+
+#all-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.box-img{
+  width: 280px;
+  height: 200px;
+  border-radius: 6px;
+}
+
+.prop{
+  width: 40px;
+  height: 40px;
+}
+
+.textP{
+  text-align: left;
+  font-weight: 100;
+  font-size: smaller;
+  padding-left: 45px;
+}
